@@ -1,5 +1,27 @@
 # Changelog
 
+## v3.0.0.1
+DoodleCook
+The Latest Build of DoodleCook.
+
+Information
+Date: 28.06.2024
+Version 0.3.0.1
+
+Added
+
+    Let V show version through an alert(version)
+
+
+Version 0.3.1.0 TODO
+
+    Add Tutorial Guy: Eugene
+    Add apple juice drink (servable)
+    Make other stuff servable
+    Score
+    Losing Senario
+
+
 ## v3.0.0
 DoodleCook
 The Latest Build of DoodleCook.
