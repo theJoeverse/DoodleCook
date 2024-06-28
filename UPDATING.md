@@ -3,3 +3,5 @@ Rename the /doodlecook.pmp to /archives/dc{version name(youll find this by openi
 Upload your new version as /doodlecook.pmp
 
 If you don't, the loader CAN AND WILL break.
+
+Add changelog in CHANGELOG.md
