@@ -1,4 +1,4 @@
-Rename the /doodlecook.pmp to /archives/dc{version name(youll find this by opening the game and pressing V)}
+Download and delete the first doodlecook.pmp. Rename it to /archives/dc{version name, found by pressing V in game} and then...
 
 Upload your new version as /doodlecook.pmp
 
